@@ -6,7 +6,8 @@ Summary(pl):	Modu³ Perla Crypt::RC5 - implementacja algorytmu szyfrowania RC5
 Name:		perl-Crypt-RC5
 Version:	2.00
 Release:	2
-License:	Artistic or GPL
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	79649f6eba759a4415513a8512eaeb21

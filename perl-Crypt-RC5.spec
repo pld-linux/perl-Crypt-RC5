@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Crypt
-%define	pnam	RC5
+%define		pdir	Crypt
+%define		pnam	RC5
 Summary:	Crypt::RC5 Perl module - RC5 encryption algorithm implementation
 Summary(pl):	Modu³ Perla Crypt::RC5 - implementacja algorytmu szyfrowania RC5
 Name:		perl-Crypt-RC5

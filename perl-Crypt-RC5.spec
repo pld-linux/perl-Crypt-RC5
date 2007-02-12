@@ -2,7 +2,7 @@
 %define		pdir	Crypt
 %define		pnam	RC5
 Summary:	Crypt::RC5 Perl module - RC5 encryption algorithm implementation
-Summary(pl):	Modu³ Perla Crypt::RC5 - implementacja algorytmu szyfrowania RC5
+Summary(pl.UTF-8):   ModuÅ‚ Perla Crypt::RC5 - implementacja algorytmu szyfrowania RC5
 Name:		perl-Crypt-RC5
 Version:	2.00
 Release:	3
@@ -24,13 +24,13 @@ variable key size, and a variable number of rounds. This particular
 implementation is 32 bit. As such, it is suggested that a minimum of
 12 rounds be performed.
 
-%description -l pl
+%description -l pl.UTF-8
 Implementacja algorytmu RC5 w Perlu. RC5 jest szybkim szyfrem blokowym
 opracowanym przez Ronalda Rivesta dla RSA Data Security (teraz RSA
 Security) w 1994 roku. Jest to sparametryzowany algorytm ze zmiennym
-rozmiarem bloku, zmiennym rozmiarem klucza i zmienn± liczb± kroków.
-Ta konkretna implementacja jest 32-bitowa. Sugeruje siê wykonywanie
-minimum 12 kroków.
+rozmiarem bloku, zmiennym rozmiarem klucza i zmiennÄ… liczbÄ… krokÃ³w.
+Ta konkretna implementacja jest 32-bitowa. Sugeruje siÄ™ wykonywanie
+minimum 12 krokÃ³w.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}

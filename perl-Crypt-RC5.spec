@@ -4,7 +4,7 @@ Summary:	Crypt::RC5 Perl module - RC5 encryption algorithm implementation
 Summary(pl.UTF-8):	Moduł Perla Crypt::RC5 - implementacja algorytmu szyfrowania RC5
 Name:		perl-Crypt-RC5
 Version:	2.00
-Release:	4
+Release:	5
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
